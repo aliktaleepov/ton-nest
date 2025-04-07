@@ -190,5 +190,17 @@
         "title": "tapp_rank",
         "link": "https://t.me/TappRankBot",
         "icon": "https://telegram-app-store-front-qnjdh.ondigitalocean.app/logo1.png"
+    },
+    { 
+        "name": "SCLUB",
+        "title": "@sclubearnbot",
+        "link": "https://t.me/sclubearnbot",
+        "icon": "https://drive.google.com/drive/folders/1Gm73_s0l5LbpctVrhlth0Tqd1IwwDXqT?usp=sharing"
+    },
+    {
+        "name": "Farmix",
+        "title": "farmix",
+        "link": "https://farmix.tg",
+        "icon": "https://static.farmix.tg/farmix-icon-100-dark.webp"
     }
 ]
