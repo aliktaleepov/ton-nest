@@ -1,206 +1,218 @@
 [
   {
-    "name": "@mastercatonlinebot",
-    "title": "Master Cat Online",
-    "link": "https://catonfront-production.up.railway.app/",
-    "icon": "https://s3.catiton.app/logo192.png"
-  },
-  {
-    "name": "totemancer",
-    "title": "Totemancer",
-    "link": "https://t.me/TotemancerBot",
-    "icon": "https://totemancer.com/ton/tc.png"
-  },
-  {
-    "name": "Chance",
-    "title": "Chance",
-    "link": "https://t.me/chancetg_bot",
-    "icon": "https://cdn4.cdn-telegram.org/file/evevGl9jX-6gO0Eo_UdMwhE_qw9sBmdn2fwn-DFUBLcTagOPs42OLkoPLBNqlENwoUQnNreZbyOvuQ75qdZTi3dJTzBaFkekHUO7qkCTg0jWfDGi76Ymd7EwDBHea-HU6cslHogsWKcafSIgLWqTVlHtaJP-Ilr0INDVUAUrhKlAAohkbwoju7g-PWe3dd2jstNpa-EEOl5IloF2824aY-oU-cVOQEZq34v-qEAI0UuLhqNJOrOJZxvdKBt2xydH2mS0RMb3dc3_fEKa6mJYfu5tQgBl2oet8GHNgW0aQJNFiRbT0rt-NLMraU1T1z2nNWUDYNUPOIoBSHnUDur4Mg.jpg"
-  },
-  {
-    "name": "Socialrise",
-    "title": "SocialRise",
-    "link": "https://t.me/socialrise_bot",
-    "icon": "https://cdn4.cdn-telegram.org/file/PXEepnKc_C3y7L9rQ1W7ZLOm6y74FzOk9q9BqrJWJKhSGsSJ_PKPVEw420KTLuS7UMcHTcQYPHzO5Q7Jw4L_o4wnDB9LWAHHr_kJHBott8w7EFuUCxgM0I1_NS0AsSSRpp-kKmKdSUfZ_la_GLvLh_Q0z66vThKxeMDiceUkQRC7PyogzYMdMLAhW9LAKAFV3TyNGnR9F-fijgY2eKdwCrmmA5fIJHbJy9NnIjsGc7s0bkXbXi5uz0sBNmqJqnjywaWfCwVUmIvvpiBPAzKW_VArBWgnKT8y6rilmXzadlTi4dgn1fyM9uXJwSsS544t5eVkk3mN2CHyg_KRzC8Mtw.jpg"
-  },
-  {
-    "name": "GoalPixels",
-    "title": "GoalPixels",
-    "link": "https://t.me/GoalPixelsBot",
-    "icon": "https://drive.google.com/file/d/16Z7xQ8Wvnv0r8MJO7zf-wHegwXg6OJUd/view?usp=sharing"
-  },
-  {
-    "name": "Peravel",
-    "title": "Peravel",
-    "link": "https://t.me/Peravelbot/app",
-    "icon": "https://app.peravel.com/wp-content/uploads/2025/02/Untitled-design24.png"
-  },
-  {
-    "name": "10485_totomagic_333",
-    "title": "TOTO the Toad",
-    "link": "totowizard.io",
-    "icon": "https://imgur.com/a/hE41i1m"
-  },
-  {
-    "name": "BizTycoon",
-    "title": "Biz Tycoon",
-    "link": "https://t.me/biztycoon_bot/",
-    "icon": "https://raw.githubusercontent.com/Sparkah/AudioHoster/refs/heads/main/Bizt_Tycoon_Logo.jpg"
-  },
-  {
-    "name": "move_prod",
-    "title": "MOVEmove_prod",
-    "link": "https://x.com/moveonton",
-    "icon": "https://drive.google.com/file/d/1YmD_eGXGxHXxHPTCo_oxc80kUU7M758A/view?usp=sharing"
-  },
-  {
-    "name": "cryptoworms",
-    "title": "CryptoWorms",
-    "link": "https://app.cryptoworms.online",
-    "icon": "https://drive.google.com/file/d/11vUWDNiecYekEkbK0WF4jArlJaOwsLzP/view?usp=sharing"
-  },
-  {
-    "name": "Pixiland: Age of Heroes",
-    "title": "Pixiland: Age of Heroes",
-    "link": "Https://t.me/pixiland_bot",
-    "icon": "https://drive.google.com/file/d/16oHgors3Df1O4Cd4dUe8KzwIpQbPNxqT/view?usp=drivesdk"
-  },
-  {
-    "name": "BeWhale",
-    "title": "BeWhale",
-    "link": "http://t.me/be_whale_bot/app",
-    "icon": "https://drive.google.com/file/d/1kbyd9q_R1zdluPyZohLYe7MQycdtUO_t/view?usp=sharing"
-  },
-  {
-    "name": "SoA_analytics",
-    "title": "Pentachora Games / Songs of Anius (TMA)",
-    "link": "https://t.me/songsofanius_bot",
-    "icon": "https://drive.google.com/file/d/1Gzys5NYo_X7GybfzPbqL0RMgc7Nrmb-Y/view?usp=drivesdk"
+    "name": "aerena_bot",
+    "title": "Aerena",
+    "link": "https://t.me/aerena_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Aerena.jpg"
   },
   {
     "name": "appincoin",
     "title": "AppInCoin",
     "link": "https://t.me/AppInCoinBot/app",
-    "icon": "https://appincoin.fun/icon.jpg"
-  },
-  {
-    "name": "Masterverses",
-    "title": "Masterverses",
-    "link": "https://t.me/masterversess_bot",
-    "icon": "https://drive.google.com/drive/u/0/folders/1wnLz1eoXVyktfiL0lBQukd3w5zJ2ZgK7"
-  },
-  {
-    "name": "beetroot_analytics",
-    "title": "Beetroot Finance",
-    "link": "https://t.me/BeetrootFiBot",
-    "icon": "https://drive.google.com/file/d/1VNZI56KEta3lE03NuSYDgd8TbRPn-lFB/view?usp=drivesdk"
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/AppInCoin.jpg"
   },
   {
     "name": "AURAabb",
     "title": "AURA x CAPITAL",
     "link": "https://t.me/auraxcryptobot",
-    "icon": "https://drive.google.com/file/d/1ZoFOFwTNhY1358E3XwPsFsTAg7C9j4Wq/view?usp=sharing"
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Aura.png"
   },
   {
-    "name": "dotton",
-    "title": "dotTON",
-    "link": "https://t.me/dotTONbot?startapp",
-    "icon": "https://dl2.apexteam.net/admin_launchpad/bot/468142370-1743444631.jpg"
+    "name": "beetroot_analytics",
+    "title": "Beetroot Finance",
+    "link": "https://t.me/BeetrootFiBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Beetroot.PNG"
   },
   {
-    "name": "folk",
-    "title": "FOLK",
-    "link": "https://t.me/folklolgame_bot",
-    "icon": "https://drive.google.com/file/d/1WquV2snQI0hEttpPY4Dwm00MltGlJgrH/view?usp=sharing"
+    "name": "BeWhale",
+    "title": "BeWhale",
+    "link": "http://t.me/be_whale_bot/app",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/BeWhale.png"
   },
   {
-    "name": "TokenTactics2025",
-    "title": "Token Tactics",
-    "link": "https://t.me/tokentactics_bot",
-    "icon": "https://drive.google.com/file/d/1ZVXlV0wtUHSzqKVtiEt3btoudQVlAGAj/view?usp=sharing"
+    "name": "BizTycoon",
+    "title": "Biz Tycoon",
+    "link": "https://t.me/biztycoon_bot/",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/BizTycoon.jpg"
   },
   {
-    "name": "Memeverse",
-    "title": "Memeverse",
-    "link": "https://t.me/memeversegg_bot/Memeverse",
-    "icon": "https://drive.google.com/file/d/1GGqVGXS0Qj9-2_IcARYJlxqSbY_56UPe/view?usp=sharing"
+    "name": "Chance",
+    "title": "Chance",
+    "link": "https://t.me/chancetg_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Chance.jpeg"
   },
   {
-    "name": "@DungeonsOfKitsune_bot",
-    "title": "Dungeons of KITSU",
-    "link": "https://t.me/DungeonsOfKitsune_bot/game",
-    "icon": "https://drive.google.com/file/d/13sKmTHFId3N8dK2sIwLEDAw7kNQ3Wrtu/view?usp=drive_link"
-  },
-  {
-    "name": "ZombieTrain",
-    "title": "ZombieTrain",
-    "link": "https://t.me/zombietrainbot",
-    "icon": "https://drive.google.com/file/d/1SSR5zTW54N3vhTiMUcwZcSvD59_h7zmY/view?usp=sharing"
-  },
-  {
-    "name": "@JivoPetsBot",
-    "title": "Jivo Pets",
-    "link": "https://jivopets.com/",
-    "icon": "https://drive.google.com/drive/folders/1tzd6GKh0n9APaMwGc8f4DyTBRyXQtNMG"
-  },
-  {
-    "name": "Yuzu_city",
-    "title": "YUZU",
-    "link": "https://app.yuzu.city/",
-    "icon": "https://drive.google.com/file/d/1It6GTXCsF7k_8HKJL9RNgolOyVdNaQ2K/view?usp=sharing"
-  },
-  {
-    "name": "aerena_bot",
-    "title": "Aerena",
-    "link": "https://t.me/aerena_bot",
-    "icon": "https://pbs.twimg.com/profile_images/1889181754944364544/OAD8zPsF_400x400.jpg"
-  },
-  {
-    "name": "MemeBattleArena",
-    "title": "Meme Battle Arena",
-    "link": "https://t.me/MemeBattleArenaBot",
-    "icon": "https://drive.google.com/file/d/1GsmpOGS3bWV5X7oyJpJDYQEgpXUL9IWX/view?usp=sharing"
+    "name": "cryptoworms",
+    "title": "CryptoWorms",
+    "link": "https://app.cryptoworms.online",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/CryptoWorms.png"
   },
   {
     "name": "cutstackbot",
     "title": "Cut & Stack",
     "link": "Cuttack.xyz",
-    "icon": "https://i.ibb.co/wFBtQg3c/256x256.png"
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Cutandstack.png"
   },
   {
-    "name": "Outmine",
-    "title": "Outmine",
-    "link": "https://t.me/OutmineBot",
-    "icon": "https://drive.google.com/file/d/1juU63X0eljgQ2SRYeZIR_DnVZm2Wwbom/view?usp=drive_link"
+    "name": "dotton",
+    "title": "dotTON",
+    "link": "https://t.me/dotTONbot?startapp",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/dotTON.jpg"
   },
   {
-    "name": "ThePath",
-    "title": "The Path",
-    "link": "https://t.me/ThePathGameBot/discover?startapp=WELCOME",
-    "icon": "https://drive.google.com/file/d/1YuPsj-K3DvzgwpR5hsCy06SBU1hV8Yv7/view?usp=drive_link"
-  },
-  {
-    "name": "@WordBooX_bot",
-    "title": "WordBooX",
-    "link": "https://word-game.mineenergy2.fun/",
-    "icon": "https://word-game.mineenergy2.fun/icon.jpg"
-  },
-  {
-    "name": "tapp_rank",
-    "title": "Tapp Rank",
-    "link": "https://t.me/TappRankBot",
-    "icon": "https://telegram-app-store-front-qnjdh.ondigitalocean.app/logo1.png"
-  },
-  {
-    "name": "@sclubearnbot",
-    "title": "SCLUB",
-    "link": "https://t.me/sclubearnbot",
-    "icon": "https://drive.google.com/drive/folders/1Gm73_s0l5LbpctVrhlth0Tqd1IwwDXqT?usp=sharing"
+    "name": "@DungeonsOfKitsune_bot",
+    "title": "Dungeons of KITSU",
+    "link": "https://t.me/DungeonsOfKitsune_bot/game",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/DungeonsofKitsu.png"
   },
   {
     "name": "farmix",
     "title": "Farmix",
     "link": "https://farmix.tg",
-    "icon": "https://static.farmix.tg/farmix-icon-100-dark.webp"
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Farmix.webp"
+  },
+  {
+    "name": "folk",
+    "title": "FOLK",
+    "link": "https://t.me/folklolgame_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Folk.PNG"
+  },
+  {
+    "name": "GoalPixels",
+    "title": "GoalPixels",
+    "link": "https://t.me/GoalPixelsBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/GoalPixels.png"
+  },
+  {
+    "name": "@JivoPetsBot",
+    "title": "Jivo Pets",
+    "link": "https://jivopets.com/",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/JivoPets.png"
+  },
+  {
+    "name": "@mastercatonlinebot",
+    "title": "Master Cat Online",
+    "link": "https://catonfront-production.up.railway.app/",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Mastercat.png"
+  },
+  {
+    "name": "Masterverses",
+    "title": "Masterverses",
+    "link": "https://t.me/masterversess_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Masterverses.jpg"
+  },
+  {
+    "name": "MemeBattleArena",
+    "title": "Meme Battle Arena",
+    "link": "https://t.me/MemeBattleArenaBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Memebattle.png"
+  },
+  {
+    "name": "Memeverse",
+    "title": "Memeverse",
+    "link": "https://t.me/memeversegg_bot/Memeverse",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Memeverse.png"
+  },
+  {
+    "name": "move_prod",
+    "title": "MOVE",
+    "link": "https://x.com/moveonton",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Move.jpg"
+  },
+  {
+    "name": "Outmine",
+    "title": "Outmine",
+    "link": "https://t.me/OutmineBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Outmine.png"
+  },
+  {
+    "name": "SoA_analytics",
+    "title": "Pentachora Games / Songs of Anius (TMA)",
+    "link": "https://t.me/songsofanius_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Pentachora.png"
+  },
+  {
+    "name": "Peravel",
+    "title": "Peravel",
+    "link": "https://t.me/Peravelbot/app",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Peravel.png"
+  },
+  {
+    "name": "Pixiland: Age of Heroes",
+    "title": "Pixiland: Age of Heroes",
+    "link": "Https://t.me/pixiland_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Pixiland.png"
+  },
+  {
+    "name": "@sclubearnbot",
+    "title": "SCLUB",
+    "link": "https://t.me/sclubearnbot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Sclub.png"
+  },
+  {
+    "name": "Socialrise",
+    "title": "SocialRise",
+    "link": "https://t.me/socialrise_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/SocialRise.jpeg"
+  },
+  {
+    "name": "tapp_rank",
+    "title": "Tapp Rank",
+    "link": "https://t.me/TappRankBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/TappRank.png"
+  },
+  {
+    "name": "ThePath",
+    "title": "The Path",
+    "link": "https://t.me/ThePathGameBot/discover?startapp=WELCOME",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/ThePath.png"
+  },
+  {
+    "name": "TokenTactics2025",
+    "title": "Token Tactics",
+    "link": "https://t.me/tokentactics_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/TokenTactics.jpg"
+  },
+  {
+    "name": "Tonmics_MiniApp",
+    "title": "Tonmics",
+    "link": "https://t.me/tonmicsbot/tonmicsapp",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Tonmics.svg"
+  },
+  {
+    "name": "Tonmons",
+    "title": "Tonmons",
+    "link": "https://t.me/tonmons_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Tonmons.jpg"
+  },
+  {
+    "name": "totemancer",
+    "title": "Totemancer",
+    "link": "https://t.me/TotemancerBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Totemancer.webp"
+  },
+  {
+    "name": "10485_totomagic_333",
+    "title": "TOTO the Toad",
+    "link": "totowizard.io",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/TOTOtheWizard.jpeg"
+  },
+  {
+    "name": "@WordBooX_bot",
+    "title": "WordBooX",
+    "link": "https://word-game.mineenergy2.fun/",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/WordBoox.jpg"
+  },
+  {
+    "name": "Yuzu_city",
+    "title": "YUZU",
+    "link": "https://app.yuzu.city/",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Yuzu.jpg"
+  },
+  {
+    "name": "ZombieTrain",
+    "title": "ZombieTrain",
+    "link": "https://t.me/zombietrainbot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/ZombieTrain.jpg"
   }
 ]
