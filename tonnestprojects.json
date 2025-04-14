@@ -60,7 +60,7 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/dotTON.jpg"
   },
   {
-    "name": "@DungeonsOfKitsune_bot",
+    "name": "dungeonsofkitsune",
     "title": "Dungeons of KITSU",
     "link": "https://t.me/DungeonsOfKitsune_bot/game",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/DungeonsofKitsu.png"
@@ -84,13 +84,13 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/GoalPixels.png"
   },
   {
-    "name": "@JivoPetsBot",
+    "name": "jivo_pets",
     "title": "Jivo Pets",
     "link": "https://jivopets.com/",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/JivoPets.png"
   },
   {
-    "name": "@mastercatonlinebot",
+    "name": "frfe",
     "title": "Master Cat Online",
     "link": "https://catonfront-production.up.railway.app/",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Mastercat.png"
@@ -120,7 +120,7 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Move.jpg"
   },
   {
-    "name": "Outmine",
+    "name": "outmine",
     "title": "Outmine",
     "link": "https://t.me/OutmineBot",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Outmine.png"
@@ -132,19 +132,19 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Pentachora.png"
   },
   {
-    "name": "Peravel",
+    "name": "peravel",
     "title": "Peravel",
     "link": "https://t.me/Peravelbot/app",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Peravel.png"
   },
   {
-    "name": "Pixiland: Age of Heroes",
+    "name": "pixiland_analytics",
     "title": "Pixiland: Age of Heroes",
     "link": "Https://t.me/pixiland_bot",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Pixiland.png"
   },
   {
-    "name": "@sclubearnbot",
+    "name": "prod_sclub",
     "title": "SCLUB",
     "link": "https://t.me/sclubearnbot",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Sclub.png"
@@ -198,7 +198,7 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/TOTOtheWizard.jpeg"
   },
   {
-    "name": "@WordBooX_bot",
+    "name": "WordBooX_bot",
     "title": "WordBooX",
     "link": "https://word-game.mineenergy2.fun/",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/WordBoox.jpg"
@@ -210,9 +210,33 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Yuzu.jpg"
   },
   {
-    "name": "ZombieTrain",
+    "name": "ZombieTrainT",
     "title": "ZombieTrain",
     "link": "https://t.me/zombietrainbot",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/ZombieTrain.jpg"
+  },
+  {
+    "name": "dice3829348",
+    "title": "Dice",
+    "link": "https://t.me/THSdice_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Dice.png"
+  },
+  {
+    "name": "fintax_bot",
+    "title": "FinTax",
+    "link": "https://www.fintax.tech",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/3b5a1b2ff065f1f7f76b41d853029b654bdd7fd6/leaderboardicons/Fintax.svg"
+  },
+  {
+    "name": "MusiKhan",
+    "title": "MusiKhan",
+    "link": "https://t.me/musikhan_bot/MusiKhan",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Music%20Khan.png"
+  },
+  {
+    "name": "hatiaa",
+    "title": "Hats 🎩",
+    "link": "https://t.me/Hatstonbot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Hats.png"
   }
 ]
