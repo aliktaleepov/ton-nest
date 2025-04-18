@@ -45,7 +45,7 @@
     "name": "cryptoworms",
     "title": "CryptoWorms",
     "link": "https://app.cryptoworms.online",
-    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/CryptoWorms.png"
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/CryptoWorms%20new.png"
   },
   {
     "name": "cutstackbot",
@@ -87,7 +87,7 @@
     "name": "jivo_pets",
     "title": "Jivo Pets",
     "link": "https://jivopets.com/",
-    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/JivoPets.png"
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/JivoPets%20New.png"
   },
   {
     "name": "frfe",
@@ -96,7 +96,7 @@
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Mastercat.png"
   },
   {
-    "name": "Masterverses",
+    "name": "masterverses",
     "title": "Masterverses",
     "link": "https://t.me/masterversess_bot",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Masterverses.jpg"
@@ -238,5 +238,29 @@
     "title": "Hats 🎩",
     "link": "https://t.me/Hatstonbot",
     "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Hats.png"
+  },
+    {
+    "name": "HappyFarming",
+    "title": "Happy Farming",
+    "link": "https://t.me/HappyFarming_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Happy%20Farming.jpg"
+  },
+  {
+    "name": "adsdropfun",
+    "title": "Adsdrop",
+    "link": "https://t.me/adsdropfunofficialbot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Adsdrop.jpg"
+  },
+  {
+    "name": "inflake_tma",
+    "title": "InfLake",
+    "link": "https://t.me/InfLakeBot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/Inflake.png"
+  },
+  {
+    "name": "MinerRush",
+    "title": "Miner Rush",
+    "link": "https://t.me/MinerRush_bot",
+    "icon": "https://raw.githubusercontent.com/aliktaleepov/ton-nest/main/leaderboardicons/MinerRush.png"
   }
 ]
